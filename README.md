@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amaan Supariwala
 
-Ex-Big Tech Software Engineer turned founder. After nearly **3 years at Amazon** and a few more building in sports tech, I’m now focused on **Air PLAi Sports** — building the AI insights layer on top of sports data  - [Our website](https://airplaisports.com)  
+Berkeley CS, Ex-Big Tech Software Engineer turned founder. After nearly **3 years at Amazon** and a few more building in sports tech, I’m now focused on building **Air PLAi Sports** —  The Universal AI layer on top of sports data  - [Our website](https://airplaisports.com)  
 
 
 We’re starting with basketball and scaling toward a vision of making **AI-driven insights and clarity available across all sports.**
