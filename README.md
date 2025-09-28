@@ -18,16 +18,15 @@ We’re starting with basketball and scaling toward a vision of making **AI-driv
 
 | Role | Company | Years | Notes |
 |------|---------|-------|-------|
-| Software Engineer | Amazon | 2019–2022 | Core backend systems, scale-focused development |
-| Sports Tech Engineer | [Startup(s)] | 2022–2024 | AI + analytics platforms, video-to-data workflows |
-| Founder | Air PLAi Sports | 2024–Present | Building the AI insights layer for sports |
+| Software Engineer | Amazon | 2021–2024 | Maps Route Optimization ML and scalable security systems |
+| Head of AI | Cerebro Sports | 2024-2025 |  The world's largest box score database for basketball stats |
+| Founder | Air PLAi Sports | Sept 2025-__ | Building the AI interface for sports data|
 
-_Add more from your resume as needed._
 
 ---
 
 ## 📂 Personal Projects
-This GitHub includes open-source and experimental repos I’ve made public.  
+This GitHub includes a few open-source and experimental projects I’ve made public.  
 
 For a broader view of my work and professional projects:
 - [LinkedIn](https://www.linkedin.com/in/amaansupariwala)  
@@ -36,10 +35,5 @@ For a broader view of my work and professional projects:
 
 ---
 
-## ⚡ Quick Facts
-- 🏀 Basketball + AI are my primary domains.  
-- 📈 Passionate about building both **product and distribution.**
-
----
 
 _Thanks for stopping by — feel free to star, fork, or reach out._  
